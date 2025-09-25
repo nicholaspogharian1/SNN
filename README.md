@@ -1,1 +1,2 @@
 # SNN
+This repo contains a Jupyter notebook with classes and functions for constructing and testing a spiking neural network. The spiking neural network is composed of two classes: an InhibitedNeuronLayer and a SynapseLayer, acting as the neurons and synaptic connections in the network respectively. Benchmarking of the network for unsupervised learning is done using the MNIST database of handwritten digits.
